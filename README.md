@@ -1,7 +1,3 @@
-Thanks for the clarification! Based on your updated folder structure and project setup, here's a **customized `README.md`** for your frontend project, cleanly organized and ready for submission or publishing.
-
----
-
 # 🚇 Hyderabad Metro Route Finder – Frontend
 
 ## 📌 Overview
